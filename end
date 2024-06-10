@@ -1,0 +1,152 @@
+[33me20f6e4[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m This is my first commit for batch 20
+[33m4c2a5b4[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Merge pull request #334 from ygminds73/b2
+[33m93c801a[m Merge branch 'main' into b2
+[33mdfc6234[m Merge pull request #333 from ygminds73/b1
+[33m2f99e3a[m Update script1.sh
+[33ma46b485[m Update script1.sh
+[33me343d0b[m Sample commit
+[33mce4dae1[m Merge pull request #326 from ygminds73/INC0902324
+[33m800873d[m This chnage is for incident-INC0902324
+[33ma9a7805[m This is my first commit in batch-24
+[33m5b5954d[m Update Script4.sh
+[33m169b522[m Delete file1
+[33mf2ddc67[m Merge pull request #291 from ygminds73/b2
+[33mcd4d215[m Merge branch 'main' into b2
+[33m76c1037[m Merge pull request #292 from ygminds73/b1
+[33md2f55d4[m Update file1
+[33mc254be2[m Merge pull request #290 from ygminds73/b1
+[33md31b9c1[m Update file1
+[33m943acfc[m Update file1
+[33m3ca0d95[m Merge pull request #288 from ygminds73/b2
+[33m894ef0b[m Update file1
+[33mf92a3bc[m Update file1
+[33mb701467[m Create file1
+[33m4f047ad[m Update script1.sh
+[33m89b1abb[m Create script1.sh
+[33m1f406d0[m Delete echo "We are trying this practical from linux EC2" echo "We are from batch-24 and learning git directory
+[33mf1e4b39[m Create script1.sh
+[33m9108f6a[m Merge pull request #277 from ygminds73/delete
+[33m11bb864[m We have deleted 1 script file
+[33m115c17b[m Merge pull request #276 from ygminds73/REQ9865634
+[33me427931[m code changes for req- REQ9865634
+[33m2fbd565[m Merge pull request #275 from ygminds73/batch-23
+[33m166ad0c[m Update Script1.sh
+[33mfd0cefe[m Update Script1.sh
+[33m20526d5[m 2nd commit for batch-23
+[33mc53dd8a[m This is my first commit for batch-23
+[33md8c8353[m Adding code
+[33m051ec25[m Update Script1.sh
+[33mda2ea2d[m Merge pull request #250 from ygminds73/REQ092348
+[33mac03604[m Request commit
+[33mcb6b94d[m Modifying Script2
+[33mfe5ba34[m This is my sample commit 2nd
+[33m98a77b2[m this is my first commit
+[33m29141b7[m Update Script1.sh
+[33m53f56a2[m Merge pull request #207 from ygminds73/REQ0044435
+[33m7fc5b3f[m We are learning git merge
+[33mdf321a9[m Removed fake commits
+[33m1c82999[m i am commiting this change as sample
+[33mfeb0344[m Update Script1.sh
+[33m9462321[m Update Script1.sh
+[33m9ea1172[m Deleted 2 lines
+[33mb6f946f[m Merge pull request #179 from ygminds73/hotfix-2
+[33me4e05dc[m Merge branch 'main' into hotfix-2
+[33m43eb8ac[m Merge pull request #178 from ygminds73/hotfix-1
+[33m14a5714[m Update Script1.sh
+[33m1804762[m Update Script1.sh
+[33m738bbdf[m Merge pull request #177 from ygminds73/feature-2
+[33maac571f[m Merge branch 'main' into feature-2
+[33m4801d32[m Update Script1.sh
+[33m4571a7b[m Merge pull request #176 from ygminds73/feature-3
+[33m13afd1c[m Update Script1.sh
+[33m2e4816e[m Merge pull request #175 from ygminds73/feature-2
+[33mbb6246d[m Committing this change for merge conflict
+[33mb99b225[m Merge pull request #174 from ygminds73/INC0007896
+[33m4f03349[m I am trying to create merge conflict
+[33m5c56b4b[m Merge pull request #173 from ygminds73/INC0007896
+[33mee1ec8b[m Fix for ticket INC007896
+[33m4b828f3[m Merge pull request #172 from ygminds73/feature-1
+[33md74b9b5[m I am commiting this change in feature branch
+[33m12c0864[m THis is my 2nd commit
+[33m0efc2b5[m This is my fist commit for batch-20
+[33md2777dc[m testing
+[33m580df6b[m Merge pull request #115 from ygminds73/aws-devops-2
+[33m706282f[m Merge branch 'main' into aws-devops-2
+[33m8288fa8[m Merge pull request #114 from ygminds73/aws-devops-1
+[33mfe1a81c[m Update Script1.sh
+[33ma666719[m Update Script1.sh
+[33mde2c933[m Update Script1.sh
+[33mb07385d[m Merge pull request #113 from ygminds73/yg-batch-19
+[33mc45c9b0[m Update Script1.sh
+[33mf4f2156[m This is my commit
+[33maa051ac[m Update Script1.sh
+[33ma05aac5[m Update Script1.sh
+[33m41409c9[m adding
+[33m75f85cc[m Merge pull request #83 from ygminds73/dev-1
+[33m0277c1f[m Merge branch 'main' into dev-1
+[33m7436e3e[m Merge pull request #82 from ygminds73/dev-2
+[33mc18078c[m Update Script1.sh
+[33m1d1ed7d[m Update Script1.sh
+[33m8fad04d[m Merge pull request #78 from ygminds73/may
+[33m5dfd283[m new branch commit
+[33mc02181d[m Merge pull request #77 from ygminds73/mybranchgit
+[33me959ce0[m Update Script1.sh
+[33m7a7d9fc[m Merge pull request #76 from ygminds73/mybranchgit
+[33mb0c900a[m Update Script1.sh
+[33md69e7eb[m Update Script1.sh
+[33mb3d85c9[m Merge pull request #75 from ygminds73/mybranchgit
+[33m050da8b[m Update Script11.sh
+[33m36e9a10[m Merge pull request #74 from ygminds73/batch-18
+[33m5f8f702[m Update Script1.sh
+[33mc8a72e5[m this is my 3rd commit
+[33me7d8855[m This is my 2nd commit
+[33m247a1cf[m This is my first commit
+[33m5c8152a[m Merge pull request #50 from ygminds73/test
+[33m718c06d[m Merge branch 'main' into test
+[33m03f4d9a[m This is another commit
+[33mf83565f[m We did few changes in test branch
+[33m0600338[m Merge pull request #44 from ygminds73/aws
+[33m1fc77b1[m Update Script1.sh
+[33m93508e0[m This is my todays first commit
+[33m374d03f[m This is my 2nd commit
+[33mefa99be[m This is my first commit
+[33m199edbf[m Update Script13.sh
+[33m3522907[m Update Script12.sh
+[33maf9b7ed[m Update Script12.sh
+[33me76d21c[m This is for fix - Incident ID
+[33me4f9a16[m Merge pull request #21 from ygminds73/REQ583298
+[33ma7ab09c[m This changes are for user request-REQ583298
+[33maaaca80[m Merge pull request #19 from ygminds73/batch-20
+[33m50f4afd[m Merge branch 'main' into batch-20
+[33mc7c974d[m Merge pull request #18 from ygminds73/batch-21
+[33m8e86590[m Update Script1.sh
+[33ma85657f[m Update Script1.sh
+[33m6ed411c[m I have changed 2 script- script1 & Script2
+[33m5f49d89[m Update Script12.sh
+[33mbedea44[m this is my last commit
+[33m87fd07e[m Merge pull request #2 from ygminds73/new
+[33mfddbb73[m this change is for req- REQ660982
+[33m6e852c0[m Merge pull request #1 from ygminds73/b1
+[33m8376b0e[m first commit
+[33m9fa7c29[m fake commit-ticketID
+[33m70519c9[m this is my 2nd commit
+[33m4863e8f[m Changes in script1
+[33m5289094[m This is my first commit
+[33m6c6df31[m Create Script18.sh
+[33m4262bce[m Create Script17.sh
+[33mc9fc185[m Create Script16.sh
+[33m6cf2c5c[m Create Script15.sh
+[33m80552d5[m Create Script14.sh
+[33mbfbce34[m Create Script13.sh
+[33m3007601[m Create Script12.sh
+[33m2b30382[m Create Script11.sh
+[33mba6bf64[m Create Scrpit10.sh
+[33mefaea09[m Create Script9.sh
+[33m984004b[m Create Script8.sh
+[33m6d4c2b6[m Create Script7.sh
+[33m06ac113[m Create Script6.sh
+[33mbd6ca0a[m Create Script5.sh
+[33m90e5398[m Create Script4.sh
+[33mf0a7b5d[m Create Script3.sh
+[33m22b3ced[m Create Script2.sh
+[33m74f76a1[m Create Script1.sh
