@@ -1,7 +1,7 @@
 echo "We are trying this practical from linux EC2"
 echo "We are from batch-24 and learning git/gihub"
 echo "Happy weekend"
-echo "My name is Ritesh"
+echo "My name is kavya"
 echo "we learning Full stack devlops"
 echo "i am trying to don't create merge conflicts"
 echo "this scrpit-first"
