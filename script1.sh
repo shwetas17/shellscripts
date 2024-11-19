@@ -1,3 +1,5 @@
 echo "We are trying this practical from linux EC2"
 echo "We are from batch-25 and learning git/gihub"
 echo "this is git"
+echo "the is new file"
+echo "okay we have created new branch"
