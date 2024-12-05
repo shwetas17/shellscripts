@@ -1,8 +1,9 @@
 #!/bin/bash
 #This script is to read input from the user/console
-echo "Value of a"
-read a
 echo "Value of b"
 read b
-echo "Hello value of a is $a and value of b is $b"
-echo "This is sample change"
+echo "Value of a"
+read a
+echo "Hello value of a is $b and value of b is $a"
+echo "We are performing this practical for batch-21"
+echo "We are performing this practical for batch-18"
